@@ -3,10 +3,11 @@
 // @namespace   MapleCreek
 // @include  *casemgmt/forward.jsp?action*
 // @include  *demographic/demographiccontrol.jsp?demographic_no*
+// @updateURL https://github.com/myingbull/Oscar/edit/main/AllergiesAndPreventions.user.js
 // @downloadURL  https://github.com/myingbull/Oscar/edit/main/AllergiesAndPreventions.user.js
 // @description Adds Navigation buttons for NKDA and common allergies, Auto FLUSHOT and Pap buttons
 // @require   http://ajax.googleapis.com/ajax/libs/jquery/1.3.1/jquery.min.js
-// @version     15.1.1
+// @version     15.2
 // @grant       none
 // ==/UserScript==
 
